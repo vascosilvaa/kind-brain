@@ -1,6 +1,6 @@
 import { getInsult } from '../services/insultAPI'
-import { insultsPT } from '../utils/insults';
-import { languages } from '../utils/constants';
+import { insultsPT } from '../utils/insults'
+import { languages } from '../utils/constants'
 
 /**
  * Returns the insult change by a custom made machine learning dataset

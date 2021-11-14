@@ -1,2 +1,2 @@
-const data = 'pénis, pila, conta, puta, fds, foda-se, fodasse, caralho, fodido, merda, foder, cona, cromo'
+const data = process.env.EXTREME_INSULTS;
 export const extremeInsults = data.split(',')
